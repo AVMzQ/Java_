@@ -1,5 +1,5 @@
 
-package simplecalculator;
+package javacourse;
 import java.util.Scanner;
 /**
  *

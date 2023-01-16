@@ -1,9 +1,5 @@
-package firstmethot;
-/**
- *
- * @author angel
- */
-public class FirstMethot {
+package javacourse;
+public class FirstFunction {
     public static void main(String[] args) {
         //On this project i will creat and use my first methot in Java
         gritting();

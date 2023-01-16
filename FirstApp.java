@@ -1,4 +1,4 @@
-package firstapp;
+package javacourse;
 import java.util.Scanner;
 /**
  *

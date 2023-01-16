@@ -1,4 +1,4 @@
-package arraytwodim;
+package javacourse;
 import java.util.Scanner;
 public class ArrayTwoDim {
     public static void main(String[] args) {

@@ -1,5 +1,5 @@
 
-package curso.modulo.pkg3;
+package javacourse;
 import java.util.Scanner;
 
 /**
